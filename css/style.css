@@ -40,6 +40,25 @@ h1 {
 }
 
 .tecla_clap{
-    width: 100px;
-    justify-content: center;
+    width: 50px;
+}
+
+.tecla_risada{
+    width: 50px;
+}
+
+.tecla_errado{
+    width: 50px;
+}
+
+.tecla_grilo{
+    width: 50px;
+}
+
+.tecla_joker{
+    width: 50px;
+}
+
+.tecla_bandeira{
+    width: 50px;
 }
