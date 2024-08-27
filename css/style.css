@@ -39,26 +39,16 @@ h1 {
     padding: 10px;
 }
 
-.tecla_clap{
-    width: 50px;
-}
-
-.tecla_risada{
-    width: 50px;
-}
-
-.tecla_errado{
-    width: 50px;
-}
-
-.tecla_grilo{
-    width: 50px;
-}
-
-.tecla_joker{
-    width: 50px;
-}
-
-.tecla_bandeira{
-    width: 50px;
+.tecla {
+    background-color: var(--branca);
+    border-radius: 30px;
+    box-shadow: 3px 3px 0 var(--cinza);
+    color: var(--vermelha);
+    cursor: pointer;
+    height: 120px;
+    font-size: 1.75em;
+    font-weight: bold;
+    line-height: 120px;
+    text-align: center;
+    width: 120px;
 }
